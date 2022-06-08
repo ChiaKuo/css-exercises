@@ -1,0 +1,19 @@
+.odd-bar {
+  background-color: rgb(208, 159, 167);
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#blue-bar {
+  font-size: 36px;
+  color: #0000ff;
+}
+
+.third {
+  font-size: 24px;
+}
+
+#green-bar {
+  background-color: hsl(120, 73%, 75%);
+  font-size: 24px;
+  font-weight: 700;
+}
